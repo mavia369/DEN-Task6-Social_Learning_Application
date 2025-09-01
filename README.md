@@ -63,7 +63,7 @@ wait for packages to finish getting installed. Then run the command:
 ```sh
 npm run android
 ```
-The app will get installed in the 'Android Studio' Emulator and start running.
+wait for "Build Successful" message, after that, the app will get installed in the 'Android Studio' Emulator and start running.
 
 # Screenshots:
 ![App Screenshot](Screenshots_and_demo-video/Screenshots/01.png)
