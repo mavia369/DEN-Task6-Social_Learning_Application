@@ -1,4 +1,7 @@
 {
   "name": "Task6",
-  "displayName": "Task6"
+  "displayName": "Task6",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "Enter your google AdMob App-ID here"
+  }
 }
