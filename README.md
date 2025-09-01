@@ -5,7 +5,7 @@
 # About This Project
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-This project is a "Social Learning" android application.
+This project is a "Social Learning" android application.  
 [Download APK](https://drive.google.com/file/d/1Ez6tr3ACgTwAg7jo5z94Qw5y7Bxls-C5/view?usp=sharing)
 
 ### App Features
