@@ -5,8 +5,7 @@
 # About This Project
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-This project is a "Social Learning" android application. <br><br>
-[Download APK](https://drive.google.com/file/d/1Ez6tr3ACgTwAg7jo5z94Qw5y7Bxls-C5/view?usp=sharing)
+This project is a "Social Learning" android application.
 
 ### App Features
 This application has 4 main modules.
@@ -24,6 +23,9 @@ This application has 4 main modules.
 1) Add this app in your Google AdMob account.
 2) Copy the "App ID".
 3) In the root directory, in the file: "app.json", replace the value of "android_app_id" with your own Google AdMob App-ID.
+
+###Download APK
+[Download APK](https://drive.google.com/file/d/1Ez6tr3ACgTwAg7jo5z94Qw5y7Bxls-C5/view?usp=sharing)
 
 ### Other Details
 In this project: 
