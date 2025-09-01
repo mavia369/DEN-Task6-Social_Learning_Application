@@ -14,12 +14,15 @@ This application has 4 main modules.
 
 In this project: 
 1) The authorization is implemented using 'Firebase Authentication'.
-2) Real-time chat is implemented suing 'Firebase Real-time database'.
+2) Real-time chat is implemented using 'Firebase Real-time database'.
+3) To-do list or tasks are implemented using 'Firebase Real-time database'
+4) Banner-Ads and Interstitial-Ads are implemented through 'Google AdMob'.
+5) Quiz history-tracking is implemented throught 'Firebase Real-time database'
 
 ### Tech Stack
-1) React Native
-2) Firebase Authentication (for user authentication)
-3) Firebase Real-time Database (for real-time chat)
+1) React Native CLI
+2) Firebase Authentication 
+3) Firebase Real-time Database
 
 # How To Run This Project
 ## Step 1: Setup the enviromnet
@@ -28,7 +31,13 @@ Make sure you have completed the [Set Up Your Environment](https://reactnative.d
 ## Step 2: Setup Firebase
 Setup 'firebase' files in the project, according to your google account. Such as including the 'goolge-services.json' file in the directory: "android/app/goolge-services.json".
 
-## Step 3: Build and run your app
+## Step 3: Replace the Ad-Ids
+In the directory: "src/Ad-Ids.js", replace the Google TestAd-Ids with your own Ad-Ids (to show Ads of your choice).
+
+## Step 4: Add your App-Id
+In the root directory, in the file: "app.json", replace the value of "android_app_id" with your own Google AdMob App-ID.
+
+## Step 5: Build and run your app
 Make sure that the 'Android Studio' Emulator is running.
 Navigate to the root directory of the project in 'command prompt' and run the following commands:
 
