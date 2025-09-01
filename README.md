@@ -9,14 +9,10 @@ This project is a "Social Learning" android application.
 
 ### App Features
 This application has 4 main modules.
-1) Quiz Module:
-   Allows user to take a quiz and test their knowledge. The App also maintains the history of all the quiz attmepts.
-3) Chat Module:
-   Allows all the users on the platform to send text messages to each other and enhance the social learning experience. The "seen" and "unseen" status of the messages is also tracked. 
-5) Task Module:
-   Allows users to create, edit, delte tasks and maintain their to-do list. Users can mark task as "done" or "pending". The App also has filtering options (All, pending, done) for tasks. The total cound of pending, all and done tasks is also tracked in the profile tab.
-7) Profile Module:
-   Allows users to upload their profile-picture/avatar, see their quiz-history and also their tasks count. Users can log out of the application through the profile tab.
+1) Quiz Module: Allows user to take a quiz and test their knowledge. The App also maintains the history of all the quiz attmepts.
+3) Chat Module: Allows all the users on the platform to send text messages to each other and enhance the social learning experience. The "seen" and "unseen" status of the messages is also tracked. 
+5) Task Module: Allows users to create, edit, delte tasks and maintain their to-do list. Users can mark task as "done" or "pending". The App also has filtering options (All, pending, done) for tasks. The total cound of pending, all and done tasks is also tracked in the profile tab.
+7) Profile Module: Allows users to upload their profile-picture/avatar, see their quiz-history and also their tasks count. Users can log out of the application through the profile tab.
 
 ### Firebase Setup
 1) Create a new Firebase project from the Firebase Console.
