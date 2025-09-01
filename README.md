@@ -24,7 +24,7 @@ This application has 4 main modules.
 2) Copy the "App ID".
 3) In the root directory, in the file: "app.json", replace the value of "android_app_id" with your own Google AdMob App-ID.
 
-###Download APK <br>
+### Download APK
 [Download APK](https://drive.google.com/file/d/1Ez6tr3ACgTwAg7jo5z94Qw5y7Bxls-C5/view?usp=sharing)
 
 ### Other Details
